@@ -1,25 +1,55 @@
 #include <iostream>
+#include <limits>
+using namespace std;
+
+int main() {
+    int n, m;
+    cin >> n >> m;
+    double x, y;
+    double costperkilo;
+    double minimun = numeric_limits<double>::max(); // Initialize with a large number
+
+    for (int i = 0; i < n; ++i) {
+        cin >> x >> y;
+        costperkilo = x / y;
+        if (costperkilo < minimun) {
+            minimun = costperkilo;
+        }
+    }
+
+    cout.precision(8);
+    cout << fixed << minimun * m << endl; // Multiply by m to get the total cost for m kilos
+
+    return 0;
+}
+
+
+
+
+/* #include <iostream>
+
+
+
+
 using namespace std ;
 
  int main (){
  int n , m ;
  cin >> n , m ;
- int a [n][2];
+  double x ,y ;
+  double costperkilo ;
+  double minimun ;
  for(int i = 0 ; i< n ; ++i )
  {
-     for (int j = 0 ; j< 2 ; j ++)
+     cin >> x >> y ;
+     costperkilo = x/y ;
+     if (costperkilo < minimun )
      {
-         cin>> a[i][j] ;
+         minimun == costperkilo;
+         cout >> minimun ;
      }
  }
- for(int i = 0 ; i< n ; ++i )
- {
-     for (int j = 0 ; j< 2 ; j ++)
-     {
-        cout << n << m ;
-         cout << a[i][j] ;
 
-     }
  }
 
  return 0 ;}
