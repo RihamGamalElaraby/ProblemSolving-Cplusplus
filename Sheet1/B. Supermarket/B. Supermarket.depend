@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1719966419 source:e:\problemsolving-cplusplus\b. supermarket\main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+	<limits>
+	<utility>
+
