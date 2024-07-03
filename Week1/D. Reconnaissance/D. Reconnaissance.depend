@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1719973247 source:e:\problemsolving-cplusplus\week1\d. reconnaissance\main.cpp
+	<iostream>
+	<algorithm>
+
