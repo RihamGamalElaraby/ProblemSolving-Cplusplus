@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1720217336 source:e:\problemsolving-cplusplus\sheet2\i. palindrome\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+
