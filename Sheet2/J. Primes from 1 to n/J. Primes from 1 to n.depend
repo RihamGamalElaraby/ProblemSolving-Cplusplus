@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1720219201 source:e:\problemsolving-cplusplus\sheet2\j. primes from 1 to n\main.cpp
+	<iostream>
+	<vector>
+
