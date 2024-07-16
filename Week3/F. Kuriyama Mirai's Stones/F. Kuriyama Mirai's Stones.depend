@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1721167961 source:e:\problemsolving-cplusplus\week3\f. kuriyama mirai's stones\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
