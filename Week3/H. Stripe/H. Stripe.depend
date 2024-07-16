@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1721171540 source:e:\problemsolving-cplusplus\week3\h. stripe\main.cpp
+	<iostream>
+	<vector>
+	<unordered_map>
+
