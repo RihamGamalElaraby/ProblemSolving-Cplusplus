@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1721426781 source:e:\problemsolving-cplusplus\muhamedafifiprobelms\2- frequency array\a. pangram\main.cpp
+	<iostream>
+	<cctype>
+
