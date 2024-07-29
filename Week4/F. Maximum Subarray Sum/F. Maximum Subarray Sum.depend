@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1721510798 source:e:\problemsolving-cplusplus\week4\f. maximum subarray sum\main.cpp
+	<iostream>
+	<vector>
+
