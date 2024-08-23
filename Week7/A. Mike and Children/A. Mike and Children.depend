@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1724366909 source:e:\problemsolving-cplusplus\week7\a. mike and children\main.cpp
+	<iostream>
+	<vector>
+	<unordered_map>
+
