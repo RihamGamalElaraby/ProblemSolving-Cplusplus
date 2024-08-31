@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1724530812 source:e:\problemsolving-cplusplus\week7\b. andryusha and socks\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

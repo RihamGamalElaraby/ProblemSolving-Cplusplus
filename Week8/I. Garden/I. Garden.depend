@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1724785252 source:e:\problemsolving-cplusplus\week8\i. garden\main.cpp
+	<iostream>
+	<climits>
+

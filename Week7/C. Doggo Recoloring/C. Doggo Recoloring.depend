@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1724531993 source:e:\problemsolving-cplusplus\week7\c. doggo recoloring\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
