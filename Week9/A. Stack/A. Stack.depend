@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1725830749 source:e:\problemsolving-cplusplus\week9\a. stack\main.cpp
+	<iostream>
+	<stack>
+
